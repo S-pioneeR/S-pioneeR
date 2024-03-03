@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @S-pioneeR
+- 👀 I’m interested in starting a Data Science Career
+- 🌱 I’m currently learning Python; SQL; PowerBI; Machine Learning and Statistics.
+- 💞️ I’m looking to collaborate on fields inside Data Science.
+- 📫 How to reach me: shahid.mail.1@gmail.com
+- ⚡ Fun fact: Already heard of GitHub before bu never got to really know it.
